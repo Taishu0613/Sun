@@ -8,7 +8,7 @@ function HomePage() {
         ホーム
       </Typography>
       <Typography>
-        ここにダッシュボードやお知らせなどを配置できます。
+        ここにダッシュボードやお知らせブランドイメージなどを配置できます。
       </Typography>
     </div>
   );

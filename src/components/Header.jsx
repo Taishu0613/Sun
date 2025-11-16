@@ -25,7 +25,7 @@ function Header({ onDrawerToggle }) {
         </IconButton>
 
         <Typography variant="h6" noWrap component="div">
-          Instagram Viewer
+          わおわおわーお
         </Typography>
       </Toolbar>
     </AppBar>

@@ -10,4 +10,7 @@ export default defineConfig({
       },
     }),
   ],
+
+  // ⭐ GitHub Pages のための設定
+  base: '/Sun/',
 })
